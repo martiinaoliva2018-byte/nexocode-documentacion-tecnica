@@ -30,5 +30,5 @@
 
 # \* \*\*Responsabilidad sobre el trabajo:\*\* La autoría, validación y control final de la totalidad del contenido presentado en esta entrega corresponden enteramente al alumno.
 
-# \*
+# \* \*\*Estado:\*\* En proceso de auditoría técnica.
 
