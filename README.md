@@ -1,34 +1,52 @@
-# \# NexoCode Soluciones - Documentación Técnica
 
-# \*\*Asignatura:\*\* Organización Empresarial  
+# NexoCode Soluciones - Documentación Técnica
 
-# \*\*Carrera:\*\* Tecnicatura Universitaria en Programación a Distancia (UTN)  
+## Datos Académicos
+* **Asignatura:** Organización Empresarial
+* **Carrera:** Tecnicatura Universitaria en Programación a Distancia (UTN)
+* **Estudiante:** Martina Oliva Pérez
+* **Comisión:** 11
+* **Enlace al Repositorio:** [https://github.com/martiinaoliva2018-byte/nexocode-documentacion-tecnica](https://github.com/martiinaoliva2018-byte/nexocode-documentacion-tecnica)
 
-# 
+---
 
-# \## 1. Descripción del Sistema
+## Descripción del Sistema
+NexoCode Soluciones es una empresa ficticia de servicios tecnológicos orientada al desarrollo de software y soporte informático. El proyecto propone implementar un módulo integrado de Gestión de Clientes y Proyectos (CRM + seguimiento de proyectos).
 
-# Este repositorio contiene la documentación técnica y de gestión para \*\*NexoCode Soluciones\*\*, una empresa ficticia de servicios tecnológicos. 
+### Objetivo Principal
+Centralizar la información de los clientes, registrar proyectos de desarrollo, organizar tareas internas y realizar un seguimiento riguroso de incidencias y soporte técnico.
 
-# El sistema desarrollado se denomina \*\*“Gestión de Clientes y Proyectos (CRM + seguimiento de proyectos)”\*\*, cuya finalidad es centralizar la información de los clientes, registrar proyectos, organizar tareas y realizar un seguimiento exhaustivo de incidencias. La estructura de la organización contempla las áreas de Dirección, Comercial, Desarrollo, Soporte y Administración.
+### Áreas de la Organización
+1. **Dirección:** Toma de decisiones estratégicas, supervisión general y aprobación de proyectos.
+2. **Comercial:** Gestión de clientes, ventas de servicios tecnológicos y atención comercial.
+3. **Desarrollo:** Programación, diseño de software, control de versiones y despliegue técnico.
+4. **Soporte:** Gestión de incidencias, resolución de problemas técnicos y asistencia al usuario.
+5. **Administración:** Control financiero, facturación y gestión de recursos internos.
 
-# 
+---
 
-# \## 2. Integrantes
+## Historial de Entregas y Documentación
+* **Entrega N.º 1:** La organización y su enfoque sistémico. Análisis de NexoCode como sistema abierto y propuesta del módulo Gestión de Clientes y Proyectos (CRM + seguimiento de proyectos).
+* **Entrega N.º 2:** Diagnóstico y planeación del proyecto tecnológico. Análisis FODA, objetivo general, metas cuantificables y diagrama de Gantt.
+* **Entrega N.º 3:** Estructura formal y diseño de datos. Organigrama funcional y diccionario de datos de Cliente, Proyecto, Tarea de seguimiento e Incidencia.
+* **Entrega N.º 4:** Modelado BPMN, control de versiones con GitHub, tablero ágil, indicadores de control y consolidación documental.
 
-# \* \*\*Estudiante:\*\* Martina Oliva Pérez
+---
 
-# \* \*\*Tutor:\*\* Francisco
+## Tablero de Trabajo e Historias de Usuario
+El seguimiento de tareas y el ciclo de vida del desarrollo se gestionan a través de herramientas de soporte ágil. 
 
-# 
+*Nota sobre las Historias de Usuario:* Las historias de usuario están pendientes de definición final. Próximamente definiremos tres historias coherentes con las funcionalidades del módulo CRM para luego vincularlas y gestionarlas desde el tablero de GitHub Projects.
 
-# \## 3. Declaración de Uso de IA
+---
 
-# \* \*\*Prompts utilizados:\*\* Se utilizaron consultas orientadas a estructurar la documentación técnica, definir historias de usuario bajo el formato estándar, organizar flujos BPMN y estructurar el tablero de trabajo.
+## Indicadores de Control y Metas Proyectadas
+Para el control y la evaluación futura del proyecto, se establecen las siguientes metas proyectadas (provenientes de la planificación inicial):
+* Registrar al menos el 90 % de los clientes y proyectos activos.
+* Reducir al menos un 30 % el tiempo de búsqueda de información.
+* Capacitar al 100 % de los usuarios involucrados.
 
-# \* \*\*Correcciones humanas:\*\* Se revisaron y ajustaron manualmente todos los textos para asegurar la coherencia absoluta con las entregas anteriores y los requerimientos específicos de la cátedra de la UTN.
+---
 
-# \* \*\*Responsabilidad sobre el trabajo:\*\* La autoría, validación y control final de la totalidad del contenido presentado en esta entrega corresponden enteramente al alumno.
-
-# \* \*\*Estado:\*\* En proceso de auditoría técnica.
-
+## Declaración de Uso de IA
+Durante la realización de este trabajo práctico individual, utilicé ChatGPT y Gemini como herramientas de asistencia para organizar contenidos, revisar la redacción y recibir orientación técnica sobre el uso de Git y GitHub. Estoy contrastando los resultados obtenidos directamente con las consignas de la cátedra y con los documentos de mis entregas anteriores para asegurar la coherencia del proyecto.
