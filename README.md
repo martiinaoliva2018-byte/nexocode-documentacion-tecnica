@@ -34,9 +34,17 @@ Centralizar la información de los clientes, registrar proyectos de desarrollo, 
 ---
 
 ## Tablero de Trabajo e Historias de Usuario
-El seguimiento de tareas y el ciclo de vida del desarrollo se gestionan a través de herramientas de soporte ágil. 
+El seguimiento del proyecto se organiza mediante GitHub Projects, utilizando las columnas Por Hacer, En Progreso y Listo.
 
-*Nota sobre las Historias de Usuario:* Las historias de usuario están pendientes de definición final. Próximamente definiremos tres historias coherentes con las funcionalidades del módulo CRM para luego vincularlas y gestionarlas desde el tablero de GitHub Projects.
+### Historias de Usuario
+
+**HU 1 - Gestión de clientes:** Como agente comercial, quiero registrar y actualizar la información de los clientes en el sistema CRM, para centralizar los datos y agilizar la atención de nuevos proyectos.
+
+**HU 2 - Seguimiento de incidencias:** Como operador de soporte técnico, quiero registrar y dar seguimiento al estado de las incidencias reportadas, para garantizar una resolución rápida y organizada de los problemas del cliente.
+
+**HU 3 - Control de proyectos:** Como directivo de la empresa, quiero visualizar el estado general de los proyectos activos en un tablero, para evaluar el cumplimiento de las metas y la carga de trabajo del equipo.
+
+**Tablero público:** https://github.com/users/martinaoliva2018-byte/projects/1
 
 ---
 
