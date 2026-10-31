@@ -57,4 +57,13 @@ Para el control y la evaluación futura del proyecto, se establecen las siguient
 ---
 
 ## Declaración de Uso de IA
-Durante la realización de este trabajo práctico individual, utilicé ChatGPT y Gemini como herramientas de asistencia para organizar contenidos, revisar la redacción y recibir orientación técnica sobre el uso de Git y GitHub. Estoy contrastando los resultados obtenidos directamente con las consignas de la cátedra y con los documentos de mis entregas anteriores para asegurar la coherencia del proyecto.
+
+Durante la realización de este trabajo práctico individual, utilicé ChatGPT y Gemini como herramientas de asistencia para organizar contenidos, revisar la redacción, proponer historias de usuario y recibir orientación técnica sobre Git, GitHub y el modelado BPMN.
+
+### Revisión crítica de los resultados de IA
+
+Entre las instrucciones utilizadas se solicitaron revisiones de la coherencia del README con las entregas anteriores, propuestas de historias de usuario relacionadas con el módulo CRM y explicaciones sencillas para comprender el proceso BPMN.
+
+Los resultados de las herramientas fueron revisados críticamente. Por ejemplo, se corrigieron descripciones incorrectas de las Entregas N.º 2 y N.º 3, se aclaró que el módulo CRM es una propuesta académica y se ajustaron las historias de usuario para que coincidieran con las funcionalidades del sistema.
+
+Estas correcciones se realizaron contrastando las respuestas de ChatGPT y Gemini con las consignas de la cátedra y los documentos originales. Las herramientas se utilizaron como apoyo y la responsabilidad por el contenido final corresponde a la estudiante.
